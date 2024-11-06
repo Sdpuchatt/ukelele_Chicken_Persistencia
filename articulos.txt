@@ -1,0 +1,3 @@
+Cerdo 001 Costillas 120.5
+Pollo 002 Pechuga 95
+Vacuno 003 Lomo 150.75
